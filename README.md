@@ -16,3 +16,7 @@ Program money changer merupakan sebuah perogram penukaran mata uang dari **Rupia
 3. Ketiga, setelah melakukan penukaran mata uang pada sebelumnya   pengguna bisa mencetak struk penukaran dengan memasukan no rekening yang sudah di daftarkan sebelumnya, dan struk tersebut dapat ditukarkan ke bank atau mata uang terdekat.
 4. Keempat, jika pengguna ingin melihat riwayat penukaran pengguna dapat memilih menu riwayat penukaran dengan memasukan no rekening pada sebelumnya. Riwayat penukaran berisi tanggal transaksi, id transaksi, nama bank, dan jumlah yang ditukarkan.
 5. ke lima, jika pengguna telah selesai melakukan transaksi dan ingin keluar bisa memilih menu pilihan exit. 
+
+# Demo Program :
+
+# Link Youtube :
