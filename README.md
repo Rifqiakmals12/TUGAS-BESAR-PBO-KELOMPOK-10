@@ -24,7 +24,7 @@ Program money changer merupakan sebuah perogram penukaran mata uang dari **Rupia
 | Langkah |Demo Program  |
 |--|--|
 |Langkah 1  |  |
-|Langkah 2  | [![fHMJJ1.md.gif](https://iili.io/fHMJJ1.md.gif)](https://freeimage.host/i/fHMJJ1) |
+|Langkah 2  | [![fHMphG.md.gif](https://iili.io/fHMphG.md.gif)](https://freeimage.host/i/fHMphG) |
 |Langkah 3  | [![fHM4Lv.gif](https://iili.io/fHM4Lv.gif)](https://freeimage.host/) |
 |Langkah 4  | [![fHM9UP.gif](https://iili.io/fHM9UP.gif)](https://freeimage.host/) |
 |Langkah 5  | [![fHM2Og.gif](https://iili.io/fHM2Og.gif)](https://freeimage.host/) |
