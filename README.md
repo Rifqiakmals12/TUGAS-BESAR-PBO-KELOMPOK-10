@@ -21,5 +21,10 @@ Program money changer merupakan sebuah perogram penukaran mata uang dari **Rupia
 5. kelima, jika pengguna telah selesai melakukan transaksi dan ingin keluar bisa memilih menu pilihan exit.
 
 # Demo Program :
+1. Langkah 1
+2. Langkah 2
+3. Langkah 3
+4. Langkah 4
+5. Langkah 5
 
 # Link Youtube :
