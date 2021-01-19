@@ -1,4 +1,4 @@
-# Progran Money Changer Menggunakan Konsep OOP (Object Oriented Programming)
+# Program Money Changer Menggunakan Konsep OOP (Object Oriented Programming)
 
 # Anggota Kelompok :
 | NAMA | NIM | KELAS
