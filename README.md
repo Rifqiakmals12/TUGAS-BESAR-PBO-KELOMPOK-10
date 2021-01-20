@@ -29,7 +29,4 @@ Program money changer merupakan sebuah perogram penukaran mata uang dari **Rupia
 |Langkah 4  | [![fHM9UP.gif](https://iili.io/fHM9UP.gif)](https://freeimage.host/) |
 |Langkah 5  | [![fHM2Og.gif](https://iili.io/fHM2Og.gif)](https://freeimage.host/) |
 
-
-
-
 # Link Youtube :
