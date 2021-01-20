@@ -1,5 +1,4 @@
 # Program Money Changer Menggunakan Konsep OOP (Object Oriented Programming)
-[![fHsRTu.png](https://iili.io/fHsRTu.png)](https://freeimage.host/)
 
 # Anggota Kelompok :
 | NAMA | NIM | KELAS
