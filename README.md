@@ -9,7 +9,7 @@
 | NARANTYO MAULANA A.N | 19104048 | 03 SE B
 
 # Deskripsi Umum Program :
-Program money changer merupakan sebuah perogram penukaran mata uang dari **Rupiah** ke mata uang **Dollar** Amerika, **Yen** Jepang, **Riyal** Saudi Arabia, **Euro** Eropa, dan **Bath** Thailand. Program ini ditujukan untuk memudahkan user(Pengguna) dalam menukarkan mata uang tanpa perlu mengantri dan membawa uang tunai yang cukup banyak ke tempat penukaran pengguna cukup menunjukan struk penukaran kepada petugas bank atau ke tempat penukaran terdekat.
+Program money changer merupakan sebuah program penukaran mata uang dari **Rupiah** ke mata uang **Dollar** Amerika, **Yen** Jepang, **Riyal** Saudi Arabia, **Euro** Eropa, dan **Bath** Thailand. Program ini ditujukan untuk memudahkan user(Pengguna) dalam menukarkan mata uang tanpa perlu mengantri dan membawa uang tunai yang cukup banyak ke tempat penukaran pengguna cukup menunjukan struk penukaran kepada petugas bank atau ke tempat penukaran terdekat.
 
 # Class Diagram :
 [![f9O0pS.md.png](https://iili.io/f9O0pS.md.png)](https://freeimage.host/i/f9O0pS)
