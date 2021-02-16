@@ -16,7 +16,7 @@ Dengan permasalahan tersebut kami memiliki solusi membuat program money changer 
 # Tujuan :
 Tujuan program money changer adalah untuk memudahkan user dalam melakukan  penukaran mata uang dengan menggunakan aplikasi money changer dan user cukup menunjukan struk penukaran kepada petugas bank atau ke tempat penukaran terdekat.
 
-# Fitur-Fitur :
+# Fitur :
 1. Terdapat menu registrasi untuk menginputkan nama, nomor rekening, asal bank, dan tanggal transaksi.
 2. Terdapat menu penukaran mata uang yang terdapat pilihan mata uang yang dapat ditukarkan dengan mata uang rupiah seperti Rupiah ke mata uang Dollar Amerika, Yen Jepang, Riyal Saudi Arabia, Euro Eropa, dan Bath Thailand.
 3. Terdapat menu cetak struk penukaran mata uang dengan syarat user harus memasukan nomor rekening nya terlebih dahulu untuk dapat mendapatkan struk penukaran.
