@@ -8,12 +8,12 @@
 | TRI DIMAS CIPTO S.W  | 19104029 | 03 SE B
 | NARANTYO MAULANA A.N | 19104048 | 03 SE B
 
-# Latar Belakang
+# Latar Belakang :
 Uang merupakan suatu hal sangat penting untuk melakukan transaksi dalam kehidupan sehari hari. Setiap negara memiliki mata uang nya masing masing dan memiliki nilai tukar yang disebut dengan kurs. Tidak dapat dipungkiri bahwa penukaran mata uang menjadi suatu kebutuhan pada zaman sekarang terutama bagi orang yang ingin berpergian keluar negeri akan tetapi penukaran mata uang saat ini kebanyakan masih menggunakan cara konvensional yaitu dengan mengunjungi tempat penukaran uang dan terkadang menimbulkan kekhawatiran jika membawa uang tunai dalam nominal yang besar terutama faktor keamanan.
 
 Dengan permasalahan tersebut kami memiliki solusi membuat program money changer yang merupakan program penukaran mata uang dari Rupiah ke mata uang Dollar Amerika, Yen Jepang, Riyal Saudi Arabia, Euro Eropa, dan Bath Thailand. Program ini ditujukan untuk memudahkan user(Pengguna) dalam menukarkan mata uang tanpa perlu mengantri dan membawa uang tunai yang cukup banyak ke tempat penukaran pengguna cukup menunjukan struk penukaran kepada petugas bank atau ke tempat penukaran terdekat.
 
-# Tujuan 
+# Tujuan :
 Tujuan program money changer adalah untuk memudahkan user dalam melakukan  penukaran mata uang dengan menggunakan aplikasi money changer dan user cukup menunjukan struk penukaran kepada petugas bank atau ke tempat penukaran terdekat.
 
 # Fitur-Fitur :
