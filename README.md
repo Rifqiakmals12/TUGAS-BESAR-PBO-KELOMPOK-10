@@ -21,8 +21,8 @@ Dengan permasalahan tersebut kami memiliki solusi membuat program money changer 
 # Fitur :
 1. Terdapat menu registrasi untuk menginputkan nama, nomor rekening, asal bank, dan tanggal transaksi.
 2. Terdapat menu penukaran mata uang yang terdapat pilihan mata uang yang dapat ditukarkan dengan mata uang Rupiah seperti Rupiah ke mata uang Dollar Amerika, Yen Jepang, Riyal Saudi Arabia, Euro Eropa, dan Bath Thailand.
-3. Terdapat menu cetak struk penukaran mata uang dengan syarat user harus memasukan nomor rekening nya terlebih dahulu untuk dapat mendapatkan struk penukaran.
-4. Terdapat menu riwayat untuk melihat transaksi penukaran yang menampilkan tanggal transaksi, id transaksi, nama bank, dan jumlah yang ditukarkan.
+3. Terdapat menu cetak struk penukaran mata uang.
+4. Terdapat menu riwayat untuk melihat transaksi penukaran mata uang.
 
 # Class Diagram UML :
 [![f9O0pS.md.png](https://iili.io/f9O0pS.md.png)](https://freeimage.host/i/f9O0pS)
