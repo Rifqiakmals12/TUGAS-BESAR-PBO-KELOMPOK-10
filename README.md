@@ -14,13 +14,13 @@ Uang merupakan suatu hal sangat penting untuk melakukan transaksi dalam kehidupa
 Dengan permasalahan tersebut kami memiliki solusi membuat program money changer yang merupakan program penukaran mata uang dari Rupiah ke mata uang Dollar Amerika, Yen Jepang, Riyal Saudi Arabia, Euro Eropa, dan Bath Thailand. Program ini ditujukan untuk memudahkan user(Pengguna) dalam menukarkan mata uang tanpa perlu mengantri dan membawa uang tunai yang cukup banyak ke tempat penukaran mata uang. Pengguna tinggal menunjukan struk penukaran kepada petugas bank atau ke tempat penukaran terdekat.
 
 # Tujuan :
-1. Memudahkan user dalam melakukan penukaran mata uang asing. 
+1. Memudahkan user dalam melakukan penukaran mata uang Rupiah ke mata uang asing (US Dollar, Yen, Riyal, Euro, Bath). 
 2. Dengan menggunakan money changer dan user cukup menunjukan struk penukaran kepada petugas bank atau ke tempat penukaran terdekat.
-3. Meminimalisir tindakan kriminalitas pencurian uang tunai.
+3. Meminimalkan tindakan kriminalitas pencurian uang tunai.
 
 # Fitur :
 1. Terdapat menu registrasi untuk menginputkan nama, nomor rekening, asal bank, dan tanggal transaksi.
-2. Terdapat menu penukaran mata uang yang terdapat pilihan mata uang yang dapat ditukarkan dengan mata uang rupiah seperti Rupiah ke mata uang Dollar Amerika, Yen Jepang, Riyal Saudi Arabia, Euro Eropa, dan Bath Thailand.
+2. Terdapat menu penukaran mata uang yang terdapat pilihan mata uang yang dapat ditukarkan dengan mata uang Rupiah seperti Rupiah ke mata uang Dollar Amerika, Yen Jepang, Riyal Saudi Arabia, Euro Eropa, dan Bath Thailand.
 3. Terdapat menu cetak struk penukaran mata uang dengan syarat user harus memasukan nomor rekening nya terlebih dahulu untuk dapat mendapatkan struk penukaran.
 4. Terdapat menu riwayat untuk melihat transaksi penukaran yang menampilkan tanggal transaksi, id transaksi, nama bank, dan jumlah yang ditukarkan.
 
