@@ -45,11 +45,11 @@ Berikut ini merupakat fitur-fitur yang ada dalam program money changer :
 |Langkah 4  | [![fHM9UP.gif](https://iili.io/fHM9UP.gif)](https://freeimage.host/) |
 |Langkah 5  | [![fHM2Og.gif](https://iili.io/fHM2Og.gif)](https://freeimage.host/) |
 
-# Link video penjelasan Youtube :
+# Link Youtube :
 https://youtu.be/-eVL9sUthGA
 
-# Link demo program Repl.it:
+# Link Program Repl.it:
 https://repl.it/@Rifqiakmals12/Program-Money-Changer#index.js
 
-# Package yang digunakan :
+# Package Yang Digunakan :
 https://www.npmjs.com/package/prompt-sync
