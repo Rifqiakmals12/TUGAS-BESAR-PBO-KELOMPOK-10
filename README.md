@@ -14,11 +14,13 @@ Uang merupakan suatu hal sangat penting untuk melakukan transaksi dalam kehidupa
 Dengan permasalahan tersebut kami memiliki solusi membuat program money changer yang merupakan program penukaran mata uang dari Rupiah ke mata uang Dollar Amerika, Yen Jepang, Riyal Saudi Arabia, Euro Eropa, dan Bath Thailand. Program ini ditujukan untuk memudahkan user(Pengguna) dalam menukarkan mata uang tanpa perlu mengantri dan membawa uang tunai yang cukup banyak ke tempat penukaran mata uang. Pengguna tinggal menunjukan struk penukaran kepada petugas bank atau ke tempat penukaran terdekat.
 
 # Tujuan :
+Berikut ini merupakan tujuan dari program money changer :
 1. Memudahkan user dalam melakukan penukaran mata uang Rupiah ke mata uang asing (US Dollar, Yen, Riyal, Euro, Bath). 
 2. Dengan menggunakan money changer dan user cukup menunjukan struk penukaran kepada petugas bank atau ke tempat penukaran terdekat.
 3. Meminimalkan tindakan kriminalitas pencurian uang tunai.
 
 # Fitur :
+Berikut ini merupakat fitur-fitur yang ada dalam program money changer :
 1. Terdapat menu registrasi untuk menginputkan nama, nomor rekening, asal bank, dan tanggal transaksi.
 2. Terdapat menu penukaran mata uang yang terdapat pilihan mata uang yang dapat ditukarkan dengan mata uang Rupiah seperti Rupiah ke mata uang Dollar Amerika, Yen Jepang, Riyal Saudi Arabia, Euro Eropa, dan Bath Thailand.
 3. Terdapat menu cetak struk penukaran mata uang.
@@ -28,7 +30,7 @@ Dengan permasalahan tersebut kami memiliki solusi membuat program money changer 
 [![f9O0pS.md.png](https://iili.io/f9O0pS.md.png)](https://freeimage.host/i/f9O0pS)
 
 # Tutorial penggunaan pada program Money Changer :
-1. Pertama pilih menu registrasi terlebih dahulu, lalu Masukan nama, Nomor Rekening, Asal Bank, dan Tanggal Transaksi
+1. Pertama pilih menu registrasi terlebih dahulu, lalu Masukan nama, Nomor Rekening, Asal Bank, dan Tanggal Transaksi.
 2. Kedua, setelah melakukan registrasi pada menu diatas lalu pilih menu penukaran uang setelah itu masukan nomor rekening yang sudah diregistrasi sebelumnya. kemudian pilih mata uang yang ingin ditukarkan seperti : Rupiah ke dollar, Rupiah ke Yen, Rupiah ke Riyal, Rupiah ke Euro, Rupiah ke Bath. dengan minimum transaksi Rp.250.000, lalu dari pilihan mata uang tersebut pilih salah 1 mata uang yang ingin ditukarkan contohnya : Rupiah ke Dollar inputkan nominal rupiah yang ingin ditukarkan ke dollar misalkan Rp.1.000.000 dengan kurs 1 dollar = 13.924 setelah dikonversi ke dollar menjadi 71,82 dollar.
 3. Ketiga, setelah melakukan penukaran mata uang pada sebelumnya pengguna bisa mencetak struk penukaran dengan memasukan no rekening yang sudah didaftarkan sebelumnya, dan struk tersebut dapat ditukarkan ke bank atau mata uang terdekat.
 4. Keempat, jika pengguna ingin melihat riwayat penukaran pengguna dapat memilih menu riwayat penukaran dengan memasukan no rekening pada sebelumnya. Riwayat penukaran berisi tanggal transaksi, id transaksi, nama bank, dan jumlah yang ditukarkan.
