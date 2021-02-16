@@ -57,4 +57,4 @@ https://www.npmjs.com/package/prompt-sync
 # Kontribusi Dalam Kelompok :
 1. Rifqi Akmal Saputra (Program menu 1 dan 2, membuat diagram class UML)
 2. Tri Dimas Cipto S.W (Program menu 3, 4 dan menyempurnakan program, mengedit video penjelasan youtube)
-3. Narantyo Maulana A.N (Dokumentasi Github (Readme))
+3. Narantyo Maulana A.N (Dokumentasi Github Readme)
